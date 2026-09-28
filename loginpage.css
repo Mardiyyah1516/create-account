@@ -1,0 +1,44 @@
+.{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+    justify-content: center;
+}
+.form_card{
+    max-width: 600px;
+    margin: 60px auto;
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.header{
+    padding: 20px 0;
+}
+.lable{
+    font-weight: 600;
+}
+.email_input{
+    margin-top: 10px;
+}
+.email_input input{
+    width: 80%;
+    padding: 10px;
+}
+.options{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 8px;
+}
+.create_account{
+    text-align: center;
+}
